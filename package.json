@@ -2,7 +2,6 @@
   "name": "my-resume-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://s-piper.github.io/",
   "dependencies": {
     "@material-ui/core": "^4.12.1",
     "@material-ui/icons": "^4.11.2",
@@ -16,8 +15,7 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",

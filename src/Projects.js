@@ -12,7 +12,7 @@ function Projects() {
 
   const useStyles = makeStyles({
     root: {
-      minHeight: 145,
+      minHeight: 390,
       maxWidth: 345,
       justifyContent: 'center',
     },
@@ -59,7 +59,7 @@ function Projects() {
                 Re-Cvr
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                Currently building an app that would allow homeowners to catalogue big ticket possessions to help ease the burden of working with an insurance company after a total loss.
+                Allows homeowners to catalogue big ticket items to help ease the burden of working with an insurance company after a total loss.
               </Typography>
             </CardContent>
           </CardActionArea>
@@ -109,7 +109,7 @@ function Projects() {
                 ToDo App
               </Typography>
               <Typography variant="body2" color="textSecondary" component="p">
-                A ToDo app using SQL to track the importance and progress of tasks.
+                A To Do app that uses SQL to track the importance and progress of tasks as they're added and completed.
               </Typography>
             </CardContent>
           </CardActionArea>

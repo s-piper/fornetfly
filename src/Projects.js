@@ -45,12 +45,7 @@ function Projects() {
   return (
 
     <div className="projects">
-      {/* <div>
-        <img className="solo" src='https://raw.githubusercontent.com/s-piper/solo-project-2021/master/screenshot/Screen%20Shot%202021-07-18%20at%2010.28.59%20PM.png' />
-      </div>
-      <div>
-        <img className="jazz" src='https://raw.githubusercontent.com/s-piper/react-weekend-gallery/master/screenshot/jazz_screenshot.png' />
-      </div> */}
+      
       <div className="cardMargin">
         <Card className={classes.root}>
           <CardActionArea>
